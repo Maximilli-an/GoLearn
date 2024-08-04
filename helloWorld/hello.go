@@ -2,6 +2,6 @@ package main
 
 import "fmt" // format package inbuilt to go
 
-func main() {
+func helloWorld() {
 	fmt.Println("Hello, World!")
 }
